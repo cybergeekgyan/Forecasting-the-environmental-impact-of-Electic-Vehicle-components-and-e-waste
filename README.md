@@ -1,15 +1,5 @@
 # Forecasting-the-Environmental-Impact-of-Electic-Vehicle-components-and-wastes
 
-
-### STEPS
-
-- Choose a Model
-- Split data into train and test sets
-- Fit model on Training Set
-- Evaluate model on Test Set
-- Re-fit model on the entire dataset
-- Forecast for future data
-
 ### Project Description: [Forecasting the Environmental Damage Done by EV Waste]()
 
 ### Introduction:
@@ -22,6 +12,15 @@ The rapid growth of electric vehicles (EVs) as a sustainable transportation opti
   - To develop forecasting models and methodologies for estimating the ecological footprint and potential risks of EV waste.
   - To evaluate existing recycling, repurposing, and disposal methods for EV components and their effectiveness in mitigating environmental damage.
   - To provide recommendations for sustainable practices and policy measures to minimize the environmental impact of EV waste.
+
+### FORECASTING STEPS
+
+- Choose a Model
+- Split data into train and test sets
+- Fit model on Training Set
+- Evaluate model on Test Set
+- Re-fit model on the entire dataset
+- Forecast for future data
 
 ### Methodology:
 - The project will involve the following key steps:
