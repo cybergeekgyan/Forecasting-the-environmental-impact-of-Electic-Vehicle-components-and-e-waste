@@ -1,6 +1,4 @@
-# Forecasting-the-Environmental-Impact-of-Electic-Vehicle-components-and-wastes
-
-### Project Description: [Forecasting the Environmental Damage Done by EV Waste]()
+## [Forecasting the Environmental Damage Done by EV Waste]()
 
 ### Introduction:
 The rapid growth of electric vehicles (EVs) as a sustainable transportation option has raised concerns about the environmental impact of EV waste. This research project aims to forecast the environmental damage caused by EV waste, providing insights into the potential long-term consequences of the disposal and management of EV components.
