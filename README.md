@@ -39,3 +39,21 @@ The rapid growth of electric vehicles (EVs) as a sustainable transportation opti
 
 ### Impact and Significance:
 This research project has significant implications for the sustainability of the electric vehicle industry and environmental protection. By forecasting the environmental damage done by EV waste, the project aims to raise awareness about the importance of responsible waste management, encourage the development of efficient recycling and disposal methods, and inform policy decisions related to the EV life cycle.
+
+
+
+## Modeling Experiments
+
+| Experiemts | Model | Performance | 
+| -----------| ------|------------ |
+| 0 | Naive Model(Baseline) |
+| 1 | Dense Model |
+| 2 |
+| 3 | 
+| 4 |
+| 5 | 
+| 6 | 
+| 7 | 
+| 8 |
+| 9 |
+| 10 | 
