@@ -50,10 +50,10 @@ This research project has significant implications for the sustainability of the
 | 1 | Dense Model |
 | 2 |
 | 3 | 
-| 4 |
-| 5 | 
+| 4 | Conv1D |
+| 5 | LSTM |
 | 6 | 
-| 7 | 
-| 8 |
+| 7 | N-Beats Algorithm |
+| 8 | Ensemble Technique |
 | 9 |
 | 10 | 
