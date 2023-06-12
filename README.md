@@ -1,4 +1,4 @@
-## [Forecasting the Environmental Damage Done by EV Waste]()
+# [Forecasting the Environmental Damage Done by EV Waste]()
 
 ![electric vehicle](https://media.licdn.com/dms/image/D5612AQHRcZmkApg2yQ/article-inline_image-shrink_1500_2232/0/1661745391477?e=1691625600&v=beta&t=AD7lFBscldlJ1TFiE1g1oVOog8Il0NdAF-BBa50j8hc)
 ### Introduction:
