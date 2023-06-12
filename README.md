@@ -57,10 +57,17 @@ This research project has significant implications for the sustainability of the
 | 9 |
 | 10 | 
 
-# Main Components of Electric Vehicles
 
+## Articles to Read 
+
+- https://www.energysage.com/electric-vehicles/advantages-of-evs/evs-environmental-impact/
 - https://yocharge.com/in/ev/components/
 - https://intellipaat.com/blog/electric-vehicle-components/
+- https://environment.co/the-environmental-impact-of-electric-car-batteries/
+- https://www.edfenergy.com/energywise/electric-cars-and-environment
+- 
+
+# Main Components of Electric Vehicles
 
 The main components of electric vehicles are :
 
@@ -91,4 +98,5 @@ The main components of electric vehicles are :
 - [Hybrid Electric Vehicle (HEV)]() : A Hybrid vehicle is often referred to as a conventional hybrid or a parallel hybrid. HEVs are powered by an IC Engine as well as an electric motor.
 - [Plug-In Hybrid Electric Vehicle (PHEV)]() : A PHEV, also known as a series hybrid, is a hybrid model that contains both an ICE and a motor.
 - [Fuel Cell Electric Vehicle (FCEV)]() : Fuel Cell Electric Vehicles (FCEVs), also known as fuel cell cars (FCVs) or Zero Emission Vehicles, are fully electric that generate energy using “Fuel Cell Technology.”
+
 
