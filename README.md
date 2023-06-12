@@ -65,7 +65,12 @@ This research project has significant implications for the sustainability of the
 - https://intellipaat.com/blog/electric-vehicle-components/
 - https://environment.co/the-environmental-impact-of-electric-car-batteries/
 - https://www.edfenergy.com/energywise/electric-cars-and-environment
-- 
+- https://indianexpress.com/article/world/climate-change/recycling-gone-up-last-5-years-67-e-waste-remains-unprocessed-8530613/
+- https://www.thehindubusinessline.com/data-stories/data-focus/around-78-of-indias-e-waste-is-not-being-collected-or-disposed-by-the-government/article65406820.ece
+- https://theroundup.org/global-e-waste-statistics/
+- https://www.prnewswire.com/news-releases/india-e-waste-management-market-analysis-report-2022-2027-government-initiatives-market-influencers-competitive-landscape-covid-19-impacts-socio-economic-indicators-301760403.html
+- E-waste Management market in India report - January 2023
+- https://www.indiatoday.in/india-today-insight/story/from-the-india-today-archives-2022-e-waste-the-mounting-threat-2328246-2023-01-30
 
 # Main Components of Electric Vehicles
 
