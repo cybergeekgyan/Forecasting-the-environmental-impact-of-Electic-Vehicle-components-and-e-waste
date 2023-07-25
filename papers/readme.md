@@ -13,3 +13,4 @@
 | Retired Electric Vehicle (EV) Batteries: Integrated Waste Management and Research Needs |
 | Electric cars: technical characteristics and environmental impacts |
 | [A Comprehensive Review on E-Waste Management Strategies and Prediction Methods: A Saudi Arabia Perspective](https://github.com/cybergeekgyan/Forecasting-the-environmental-impact-of-Electic-Vehicle-components-and-e-waste/blob/main/papers/knowledge-03-00012-v2.pdf) | 
+| [E-Waste Management in India: Challenges and Agenda](https://github.com/cybergeekgyan/Forecasting-the-environmental-impact-of-Electic-Vehicle-components-and-e-waste/blob/main/papers/paper%20with%20stats.pdf) |
